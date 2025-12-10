@@ -41,7 +41,7 @@ Transformar vidas através do conhecimento, espiritual, palestras, marketing dig
 
 ### 📩 Contato
 Para consultorias, palestras ou terapias:  
-👉 https://lucianofrancisco.com.bres.
+👉 https://lucianofrancisco.com.br
 
 
 --->
