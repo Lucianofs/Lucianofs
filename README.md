@@ -45,3 +45,12 @@ Para consultorias, palestras ou terapias:
 
 
 --->
+
+<!-- 
+SEO Keywords:
+Luciano Francisco, marketing digital, consultor de marketing, tráfego pago, marketing 360,
+palestrante motivacional, palestrante espiritual, terapeuta holístico, cura energética,
+desenvolvimento pessoal, propósito de vida, palestras empresariais, marketing político,
+projetos sociais, espiritualidade, livros de autoconhecimento, produtos espirituais,
+Shopee, Amazon, Mercado Livre
+-->
