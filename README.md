@@ -1,23 +1,47 @@
-- 👋 Hi, I’m @Lucianofs
+# 👋 Olá, eu sou Luciano Francisco
 
-- 👀 I’m interested in marketing digital,  empreendedorismo, coach,  consultoria, terapia online, criação de projetos sociais, desenvolvimento, 
-desenho, escritos, publicidade, programa, códigos, políticas públicas, criação e implementação em projetos sociais e marketing político. Investidor, 
-tecnologia da informação (TI), social media, desenvolvedor de sites;
+## 🚀 Consultor de Marketing Digital 360°
+Especialista em estratégias de crescimento, vendas, posicionamento e construção de marca.
+Atendo empreendedores, empresas e profissionais que desejam acelerar resultados.
 
-- 🌱 I’m currently learning sobre tudo que chegar até eu;
+## 🌿 Terapeuta Holístico Integrativo
+Atendimento com terapias energéticas, equilíbrio emocional, limpeza mental e orientação espiritual.
 
-- �️✨ I’m looking to collaborate on projetos sociais, terapias holíticas, marketing digital, coach, terapia online, desenvolvimento, desenho, 
-publicidade, tecnologia da informação (TI), social media, ideias e outros;
+## 🎤 Palestrante
+Palestras motivacionais, espirituais, empresariais e transformadoras baseadas em:
+• Desenvolvimento humano  
+• Autoconhecimento  
+• Espiritualidade  
+• Livros Autorais (Energia, Politicas     Públicas, O valor do EU)...
+• Estratégias reais de Marketing  
+• Políticas públicas e projetos sociais  
 
-- 📫 How to reach me cheguei aqui através do google;
+## 🛒 Lojas Oficiais
+Produtos edificantes, livros e itens que fortalecem corpo, mente e espírito:  
+- Shopee  
+- Amazon  
+- Mercado Livre  
 
-- 👀 �️✨Hard skills: excel avançado, gestão de pessoas, gestão de projetos, edição de imagens/video/som; web designer; operação de máquinas e sistemas, domínio de html, domínio de CSS.
+## 🌐 Site Oficial
+➡ https://lucianofrancisco.com.br
 
-🌱📫Soft skills: comunicação, flexibilidade, gerenciamento de tempo, liderança, motivação, paciência, persuasão, trabalho em equipe, resolução de conflitos, relacionamentos interpessoais, inteligência emocional, resiliência.
+## 📱 Redes Sociais
+- Instagram: https://www.instagram.com/lucianofranciscoi  
+- Facebook: https://www.facebook.com/lucianofranciscoi  
+- Kwai: https://k.kwai.com/u/@professorluciano  
+- YouTube: https://youtube.com/@lucianofranciscoprofessor  
+- TikTok: https://www.tiktok.com/@luciano.franciscoi
 
-<!---
-Lucianofs/Lucianofs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+---
+
+### ✨ Missão
+Transformar vidas através do conhecimento, espiritual, palestras, marketing digital e propósito.
+
+---
+
+### 📩 Contato
+Para consultorias, palestras ou terapias:  
+👉 https://lucianofrancisco.com.bres.
 
 
 --->
