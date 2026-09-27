@@ -1,9 +1,7 @@
-<!-- Banner Principal -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Luciano%20Francisco&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Marketing%20Digital%20%7C%20Terapia%20Holística%20%7C%20Palestras&descAlignY=60&descSize=18" />
 </p>
 
-<!-- Centralização de conteúdo -->
 <div align="center">
 
 ### 👋 Olá! Bem-vindo ao meu universo digital
@@ -12,45 +10,37 @@
 
 ---
 
-##  Sobre Mim
+## 🧑 Sobre Mim
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>🚀 Consultor de Marketing Digital 360°</h3>
-      <p>Especialista em estratégias de <b>crescimento, vendas, posicionamento e construção de marca</b>. Atendo empreendedores, empresas e profissionais que desejam acelerar resultados.</p>
-      
-      <h3>🌿 Terapeuta Holístico Integrativo</h3>
-      <p>Atendimento com terapias energéticas, equilíbrio emocional, limpeza mental e orientação espiritual.</p>
-      
-      <h3>🎤 Palestrante</h3>
-      <p>Palestras motivacionais, espirituais, empresariais e transformadoras baseadas em:</p>
-      <ul>
-        <li>✨ Desenvolvimento humano</li>
-        <li>🧘 Autoconhecimento</li>
-        <li>🔮 Espiritualidade</li>
-        <li> Livros Autorais (Energia, Políticas Públicas, O valor do EU)</li>
-        <li>📈 Estratégias reais de Marketing</li>
-        <li> Políticas públicas e projetos sociais</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" alt="GIF animado" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lucianofs&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff" alt="GitHub Stats" />
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucianofs&theme=transparent&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+### 🚀 Consultor de Marketing Digital 360°
+Especialista em estratégias de **crescimento, vendas, posicionamento e construção de marca**. Atendo empreendedores, empresas e profissionais que desejam acelerar resultados.
+
+### 🌿 Terapeuta Holístico Integrativo
+Atendimento com terapias energéticas, equilíbrio emocional, limpeza mental e orientação espiritual.
+
+### 🎤 Palestrante
+Palestras motivacionais, espirituais, empresariais e transformadoras baseadas em:
+- ✨ Desenvolvimento humano
+- 🧘 Autoconhecimento
+- 🔮 Espiritualidade
+- 📚 Livros Autorais (Energia, Políticas Públicas, O valor do EU)
+- 📈 Estratégias reais de Marketing
+- 🤝 Políticas públicas e projetos sociais
 
 ---
 
-##  Lojas Oficiais
+## 📊 Minhas Estatísticas
 
 <p align="center">
-  <i>Produtos edificantes, livros e itens que fortalecem corpo, mente e espírito:</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucianofs&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucianofs&theme=transparent&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🛒 Lojas Oficiais
+
+*Produtos edificantes, livros e itens que fortalecem corpo, mente e espírito:*
 
 <p align="center">
   <a href="https://shopee.com.br" target="_blank">
@@ -66,7 +56,7 @@
 
 ---
 
-##  Conecte-se Comigo
+## 🌐 Conecte-se Comigo
 
 <p align="center">
   <a href="https://lucianofrancisco.com.br" target="_blank">
@@ -98,13 +88,9 @@
 
 > *"Transformar vidas através do conhecimento, espiritual, palestras, marketing digital e propósito."*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=🙏%20Gratidão%20pela%20visita!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
-</p>
-
 ---
 
-##  Contato
+## 📩 Contato
 
 <p align="center">
   Para consultorias, palestras ou terapias:
@@ -118,9 +104,8 @@
   </a>
 </p>
 
-</div>
-
-<!-- Contador de visitas -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucianofs&label=Visitantes&color=FFD700&style=for-the-badge" alt="Visitantes" />
 </p>
+
+</div>
