@@ -45,7 +45,7 @@ Para consultorias, palestras ou terapias:
 
 
 
-https://lucianofs.github.io/lucianofs/
+https://lucianofs.github.io/lucianofs
 
 --->
 
