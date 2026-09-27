@@ -99,7 +99,7 @@ Palestras motivacionais, espirituais, empresariais e transformadoras baseadas em
     <img src="https://img.shields.io/badge/📧_Entre_em_Contato-FFD700?style=for-the-badge&logoColor=black" alt="Contato" />
   </a>
   <br><br>
-  <a href="https://lucianofs.github.io/lucianofs" target="_blank">
+  <a href="https://lucianofs.github.io/sumarioexecutivo/" target="_blank">
     <img src="https://img.shields.io/badge/🔗_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
