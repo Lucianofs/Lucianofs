@@ -7,7 +7,13 @@
 
 ### 👋 Olá! Bem-vindo ao meu universo digital
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Consultor+de+Marketing+Digital+360°;Terapeuta+Holístico+Integrativo;Palestrante+Motivacional;Transformando+vidas+através+do+conhecimento)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Consultor+de+Marketing+Digital+360°;
+Arquiteto Transformação Digital & Dados;
+Criador CFO da Alma e dos Negócios™;
+Terapeuta+Holístico+Integrativo;
+Consultor IA;
+Palestrante+Motivacional;
+Transformando+vidas+através+do+conhecimento; 19 Anos de Experiência )](https://git.io/typing-svg)
 
 ---
 
@@ -90,9 +96,6 @@ Palestras motivacionais, espirituais, empresariais e transformadoras baseadas em
 > *"Transformar vidas através do conhecimento, espiritual, palestras, marketing digital e propósito."*
 
 ---
-
-HHHHHHHHHHJHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-HHHHHHHHHHHHH
 
 ### 🎯 Criador do CFO da Alma e dos Negócios™
 
