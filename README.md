@@ -91,34 +91,8 @@ Palestras motivacionais, espirituais, empresariais e transformadoras baseadas em
 
 ---
 
-## 📩 Contato
-
-<p align="center">
-  Para consultorias, palestras ou terapias:
-  <br><br>
-  <a href="https://lucianofrancisco.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Entre_em_Contato-FFD700?style=for-the-badge&logoColor=black" alt="Contato" />
-  </a>
-  <br><br>
-  <a href="https://lucianofs.github.io/sumarioexecutivo/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lucianofs&label=Visitantes&color=FFD700&style=for-the-badge" alt="Visitantes" />
-</p>
-
-</div>
-
-
-
-
-
 HHHHHHHHHHJHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 HHHHHHHHHHHHH
-
-# 👋 Olá, eu sou Luciano Francisco
 
 ### 🎯 Criador do CFO da Alma e dos Negócios™
 
@@ -191,6 +165,34 @@ Autor de 4 livros na Amazon sobre Espiritualidade, Autoconhecimento, Políticas 
 
 ## 🌟 Disponibilidade
 ✅ **Aberto para:** Consultorias em IA/Dados, Palestras Corporativas, Projetos de Políticas Públicas e Consultoria Freelance (Remoto/Presencial).
+
+---
+
+
+## 📩 Contato
+
+<p align="center">
+  Para consultorias, palestras ou terapias:
+  <br><br>
+  <a href="https://lucianofrancisco.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Entre_em_Contato-FFD700?style=for-the-badge&logoColor=black" alt="Contato" />
+  </a>
+  <br><br>
+  <a href="https://lucianofs.github.io/sumarioexecutivo/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lucianofs&label=Visitantes&color=FFD700&style=for-the-badge" alt="Visitantes" />
+</p>
+
+</div>
+
+
+
+
+
 
 ---
 
