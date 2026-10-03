@@ -1,6 +1,16 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Luciano%20Francisco&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CFO%20da%20Alma%20e%20dos%20Neg%C3%B3cios%E2%84%A2%20%7C%20Arquiteto%20de%20Dados%20%26%20IA&descAlignY=60&descSize=18" />
 </p>
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Luciano%20Francisco&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Marketing%20Digital%20%7C%20Terapia%20Holística%20%7C%20Palestras&descAlignY=60&descSize=18" />
+</p>
+
+<br>
+
+
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
