@@ -179,10 +179,6 @@ Autor de 4 livros na Amazon sobre Espiritualidade, Autoconhecimento, Políticas 
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lucianofs&label=Visitantes&color=FFD700&style=for-the-badge" alt="Visitantes" />
-</p>
-
 </div>
 
 
@@ -196,9 +192,6 @@ Autor de 4 livros na Amazon sobre Espiritualidade, Autoconhecimento, Políticas 
 <p align="center">
   <a href="mailto:professorluciano1@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-professorluciano1@gmail.com-FFD700?style=for-the-badge&logoColor=black" alt="Email" />
-  </a>
-  <a href="https://wa.me/5563984126242" target="_blank">
-    <img src="https://img.shields.io/badge/📱_WhatsApp-(63)_98412--6242-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://lucianofrancisco.com.br" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Site-lucianofrancisco.com.br-000000?style=for-the-badge&logoColor=white" alt="Site" />
