@@ -8,6 +8,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Consultor+de+Marketing+Digital+360%C2%B0;Arquiteto+Transforma%C3%A7%C3%A3o+Digital+%26+Dados;Criador+CFO+da+Alma+e+dos+Neg%C3%B3cios%E2%84%A2;Terapeuta+Hol%C3%ADstico+Integrativo;Consultor+IA;Palestrante+Motivacional;Transformando+vidas+atrav%C3%A9s+do+conhecimento;19+Anos+de+Experi%C3%AAncia" alt="Typing SVG" />
   </a>
 </p>
+hhfh
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Luciano%20Francisco&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Marketing%20Digital%20%7C%20Terapia%20Hol%C3%ADstica%20%7C%20Palestras&descAlignY=60&descSize=18" alt="Luciano Francisco Header" />
+</p>
 
 ---
 
