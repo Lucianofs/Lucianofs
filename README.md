@@ -32,8 +32,8 @@ Sou um profissional multidisciplinar que não apenas consulta negócios ou apoia
 - **[💼 LinkedIn](https://www.linkedin.com/in/lucianofranciscoi/)** — Identidade profissional pública e networking
 - **[🚀 Portfólio](https://lucianofs.github.io/sumarioexecutivo/portfolio)** — Projetos, casos de sucesso e impacto
 - **[📄 Currículo Executivo](https://lucianofs.github.io/sumarioexecutivo/curriculo-executivo)** — Versão visual de alto impacto (1 página)
-- **[🎯 Currículo ATS](https://lucianofs.github.io/sumarioexecutivo/curriculo-ats)** — Otimizado para sistemas de recrutamento (Brasil)
-- **[🌍 Currículo ATS Internacional](https://lucianofs.github.io/sumarioexecutivo/curriculo-ats-internacional)** — Versão global em inglês
+- **[🎯 Currículo ATS](https://lucianofs.github.io/sumarioexecutivo/curriculo-ats-nacional)** — Otimizado para sistemas de recrutamento (Brasil)
+- **[🌍 Currículo ATS Internacional](https://lucianofs.github.io/sumarioexecutivo/curriculum-ats-internacional)** — Versão global em inglês
 
 ---
 
