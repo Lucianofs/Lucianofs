@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Luciano%20Francisco&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=
-    Arquiteto+de+Transforma%C3%A7%C3%A3o+Digital+e+Dados
-    %20%7C%20Consultor+de+IA+e+Pol%C3%ADticas+P%C3%BAblicas%20%7C%20
-    Terapia%20Hol%C3%ADstica%20%7C%20Palestras&descAlignY=60&descSize=18" alt="Luciano Francisco Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Luciano%20Francisco&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Arquiteto+de+Transforma%C3%A7%C3%A3o+Digital+e+Dados%20%7C%20Consultor+de+IA+e+Pol%C3%ADticas+P%C3%BAblicas%20%7C%20Terapia%20Hol%C3%ADstica%20%7C%20Palestras&descAlignY=60&descSize=18" alt="Luciano Francisco Header" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
