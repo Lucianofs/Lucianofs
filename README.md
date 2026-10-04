@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Consultor+de+Marketing+Digital+360°;Arquiteto+de+Transformação+Digital+e+Dados;Criador+do+CFO+da+Alma+e+dos+Negócios™;Terapeuta+Holístico+Integrativo;Consultor+de+IA+e+Políticas+Públicas;Palestrante+e+Autor;19+Anos+de+Experiência" alt="Typing SVG" />
   </a>
 </p>
-
 ---
 
 ## 🎯 Missão & Propósito
