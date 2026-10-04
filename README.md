@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Consultor+de+Marketing+Digital+360%C2%B0;Arquiteto+Transforma%C3%A7%C3%A3o+Digital+%26+Dados;Criador+CFO+da+Alma+e+dos+Neg%C3%B3cios%E2%84%A2;Terapeuta+Hol%C3%ADstico+Integrativo;Consultor+IA;Palestrante+Motivacional;Transformando+vidas+atrav%C3%A9s+do+conhecimento;19+Anos+de+Experi%C3%AAncia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Consultor+de+Marketing+Digital+360°;Arquiteto+de+Transformação+Digital+e+Dados;Criador+do+CFO+da+Alma+e+dos+Negócios™;Terapeuta+Holístico+Integrativo;Consultor+de+IA+e+Políticas+Públicas;Palestrante+e+Autor;19+Anos+de+Experiência" alt="Typing SVG" />
   </a>
 </p>
 
