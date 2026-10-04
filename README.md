@@ -121,7 +121,7 @@ Autor de **4 livros na Amazon** (Espiritualidade, Autoconhecimento, Políticas P
   <a href="https://k.kwai.com/u/@lucianofrancisco_i/CcEpwh9i" target="_blank">
     <img src="https://img.shields.io/badge/Kwai-FF4500?style=for-the-badge&logoColor=white" alt="Kwai" />
   </a>
-  <a href="https://www.tiktok.com/@luciano.franciscoi" target="_blank">
+  <a href="tiktok.com/@lucianofrancisco_i" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
